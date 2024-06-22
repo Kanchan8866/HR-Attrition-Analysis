@@ -5,6 +5,8 @@ Tool Used : Power Bi
 
 Welcome to the HR Attrition Analysis Project, where we delve into employee data to understand the reasons behind attrition within our organization. This project aims to uncover the factors contributing to employee turnover and provide actionable insights for informed decision-making. The primary objective is to identify key drivers of attrition by examining factors such as job satisfaction, work-life balance, performance levels, and demographic profiles. By analyzing these elements, we aim to pinpoint areas within the organization that require improvement. Through data-driven insights, the company can implement targeted initiatives and policies to mitigate attrition rates and enhance employee retention strategies, fostering a more supportive work environment.
 
+![hr_Menu](https://github.com/Kanchan8866/HR-Attrition-Analysis/assets/159992336/4ed3edbe-7822-4b33-89b3-40980088adbd)
+
 ## Demographics Analysis
 
 ### Questions:
@@ -58,7 +60,7 @@ Gender-wise, male employees tend to have higher attrition across all marital sta
 
 &#8226; Implementing these recommendations can help organizations create a supportive and accommodating work environment, leading to higher employee satisfaction, improved retention rates, and enhanced overall organizational performance.
 
-## Turnover1 Analysis
+## Turnover Analysis I
 
 
 ### Questions:
@@ -95,7 +97,7 @@ Gender-Specific Interventions for Male Employees:
 
 &#8226; Focus on enhancing job satisfaction and working conditions for critical roles such as Laboratory Technicians, Sales Executives, and Research Scientists by addressing compensation, career progression opportunities, workload management, and overall job environment.
 
-## Turnover2 Analysis
+## Turnover Analysis II
 
 ### Questions:
 
